@@ -1,0 +1,9 @@
+prompt: |
+  <|system|>
+  {system_prompt}<|end|>
+  {conversation}
+  <|assistant|>
+
+message: |
+  <|{user}|>
+  {user_message}<|end|>
