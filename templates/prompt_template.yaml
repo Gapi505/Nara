@@ -6,4 +6,4 @@ prompt: |
 
 message: |
   <|{user}|>
-  {user_message}<|end|>
+  {message}<|end|>
